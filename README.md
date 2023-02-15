@@ -1,7 +1,7 @@
 
 # Omoyemi Quadri
 
-## My portfolio site.
+## My portfolio site
 Do you wanna know about me?
 i'm here for you
 
